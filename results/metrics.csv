@@ -1,0 +1,7 @@
+section,mode,thresh,recall@5,mrr@5,citation_support,abstention_acc,cross_script_consistency,latency_mean_ms,latency_p95_ms,n_queries,n_retrieval,n_answered,n_unanswerable,n_groups
+mode,bm25,-1e-09,0.0,0.0,0.0,0.65,,0.5861916673893575,0.9412049985257908,60.0,30,30.0,21.0,0.0
+mode,char,-1e-09,0.0,0.0,0.0,0.65,,1.1684066664505128,1.6147849986737128,60.0,30,30.0,21.0,0.0
+mode,semantic,-1e-09,0.0,0.0,0.0,0.65,,9.175901666943295,11.960395006462932,60.0,30,30.0,21.0,0.0
+mode,hybrid,-1e-09,0.0,0.0,0.0,0.65,,10.865468334183484,14.197875000536442,60.0,30,30.0,21.0,0.0
+ablation_roman,hybrid+norm,,0.0,0.0,,,,,,,30,,,
+ablation_roman,hybrid-raw,,0.0,0.0,,,,,,,30,,,

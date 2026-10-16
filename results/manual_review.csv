@@ -1,0 +1,10 @@
+query_id,language,query,expected_answer_en,hybrid_top3
+N011,roman,"Mujhay 10 saal ka passport chahiye, main 12 saal ka hoon. Fee kya hai?",,None (0.000): ; None (0.000): ; None (0.000): 
+N012,english,Can I get a 10-year passport for my 14-year-old child?,,None (0.000): ; None (0.000): ; None (0.000): 
+N013,urdu,کیا 14 سال کے بچے کو دس سال کا پاسپورٹ مل سکتا ہے؟,,None (0.000): ; None (0.000): ; None (0.000): 
+N017,english,I lost my passport. Can I just bring a police report without the old passport number?,,None (0.000): ; None (0.000): ; None (0.000): 
+N018,roman,Passport gum hai lekin number yaad nahi. Ab kya karoon?,,None (0.000): ; None (0.000): ; None (0.000): 
+N020,roman,Mere bachay ke parents separated hain. Kya sirf aik parent ki permission kafi hai?,,None (0.000): ; None (0.000): ; None (0.000): 
+N023,roman,Kya 2 working days ka matlab passport ghar bhi 2 din mein aa jaye ga?,,None (0.000): ; None (0.000): ; None (0.000): 
+N024,english,Does the 21-working-day normal processing estimate include courier delivery?,,None (0.000): ; None (0.000): ; None (0.000): 
+N025,roman,Kya main apnay bachay ko apnay passport par add karwa sakta hoon?,,None (0.000): ; None (0.000): ; None (0.000): 
